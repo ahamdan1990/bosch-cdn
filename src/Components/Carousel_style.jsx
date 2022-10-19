@@ -13,6 +13,6 @@ export const CarouselContainer = styled.div`
     }
 
     @media ${device.mobileL_425px} {
-        height:30vh;
+        height:20vh;
     }
 `
